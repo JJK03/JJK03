@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjk03&label=Profile%20views&color=0e75b6&style=flat" alt="jjk03" /> </p>
 
-- 🔭 I’m currently working on **LINKer**
-
 - 🌱 I’m currently learning **JAVA, C#, MySQL**
 
 - 📫 How to reach me **wkdwlsrb09@gmail.com**
